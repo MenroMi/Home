@@ -9,3 +9,4 @@ git commit -m 'xDD' # dodanie opisu dla twojego pliku
 git push # wypchnięcie zmian w pliku na githuba
  ===========
  git diff # pokazuje wszystkie zmiany wprowadzone między aktualną wersją pliku a wcześniejszym commitem
+ git diff-files # pokazuje wszystkie pliki które zostały zmienone 
